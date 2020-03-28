@@ -1,6 +1,7 @@
-# StagWeb
- WebApp para Estagiários apontarem horas de trabalho
- Esse sistema foi desenvolvido para o processo seletivo da empresa Sólides onde foi solicitado a criação de um WebApp para estagiários apontarem horários de trabalho.
+# StagWeb_v1
+WebApp para Apontamento de Hora
+
+Esse sistema foi desenvolvido para o processo seletivo da empresa Sólides onde foi solicitado a criação de um WebApp para estagiários apontarem horários de trabalho.
 
 Obs: aberto a sugestões e melhorias.
 
