@@ -13,8 +13,10 @@ Registro de horários
 Pré-requisitos:
 
 PHP 5.3 ou superior
-Servidor Web 
+Servidor Web  
+
 My SQL 
+
 Bootstrap e jQuery
 
 Como testar:
