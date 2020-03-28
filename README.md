@@ -5,6 +5,7 @@
 Obs: aberto a sugestões e melhorias.
 
 Funcionalidades:
+
 Acompanhamento de horários
 Registro de horários
 
@@ -16,4 +17,5 @@ My SQL
 Bootstrap e jQuery
 
 Como testar:
+
 Para visualizar acesse localhost/local/Web App_v1
