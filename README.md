@@ -4,17 +4,16 @@
 
 Obs: aberto a sugestões e melhorias.
 
-Funcionalidades
+Funcionalidades:
 Acompanhamento de horários
 Registro de horários
 
-Pré-requisitos
-Para testar o sistema o computador deve conter os seguintes softwares:
+Pré-requisitos:
 
 PHP 5.3 ou superior
 Servidor Web 
 My SQL 
 Bootstrap e jQuery
 
-Como testar
+Como testar:
 Para visualizar acesse localhost/local/Web App_v1
