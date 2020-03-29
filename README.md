@@ -21,4 +21,5 @@ Bootstrap e jQuery
 
 Como testar:
 
-Para visualizar acesse localhost/local/Web App_v1
+Para acessar ao sistema, o usuário deverá  utilizar o endereço localhost/local/Web App_v1. 
+Após o acesso, deve-se criar um cadastro no sistema e será redirecionado para a tela de login que, após efetuar o mesmo, mostrará a tela do apontamento.
