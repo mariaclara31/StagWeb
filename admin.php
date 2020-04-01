@@ -29,12 +29,6 @@ if(!empty($_SESSION['id'])){
                <span style="position: absolute; top: 30 px; left: 100px;width: 90px; height: 61px; background-color: rgba(255,255,255,0);">
                 <img src="logo2.png" class="img-fluid img-thumbnail">
             </span>
-                <?php
-                include_once "conecta.php";
-                $date = date('d-m-Y H:i:s');
-                $sql ="SELECT `id_user`, `Entrada`, `Almoço`, `Retorno`, `Saída`, `Justificativa` FROM `horario` WHERE 1"; 
-                $rs = mysqli_query($conexao, $sql);
-                ?>
 			     <h1><center><u>Apontamento de Horários</h1></center></u>
 			         <div data-role="page" id="home">
                         <header data-role="header" data-position="">
