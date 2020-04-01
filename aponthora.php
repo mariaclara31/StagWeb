@@ -5,7 +5,7 @@ $date = date('d-m-Y H:i:s');
 
 $sql ="SELECT `id_user`, `Entrada`, `Almoço`, `Retorno`, `Saída`, `Justificativa` FROM `horario` WHERE 1"; 
 
-$rs = mysqli_query($conexao, $sql)
+$rs = mysqli_query($conn, $sql)
 ?>
 
 <html>
