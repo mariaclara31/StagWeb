@@ -1,3 +1,4 @@
+<a href="https://www.codefactor.io/repository/github/mariaclara31/stagweb"><img src="https://www.codefactor.io/repository/github/mariaclara31/stagweb/badge" alt="CodeFactor" /></a>
 # StagWeb_v1
 WebApp para Apontamento de Hora
 
